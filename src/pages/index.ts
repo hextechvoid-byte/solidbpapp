@@ -1,0 +1,11 @@
+export { Home } from './Home';
+export { ServicesOverview } from './ServicesOverview';
+export { ServiceDetail } from './ServiceDetail';
+export { SectorsOverview } from './SectorsOverview';
+export { SectorDetail } from './SectorDetail';
+export { LocationsOverview } from './LocationsOverview';
+export { LocationDetail } from './LocationDetail';
+export { ProjectsPage } from './Projects';
+export { About } from './About';
+export { Contact } from './Contact';
+export { Quote } from './Quote';
